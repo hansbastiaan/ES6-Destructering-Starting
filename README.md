@@ -1,2 +1,2 @@
-# ES6-Destructering-Starting
+# conditional-rendering-app
 Created with CodeSandbox

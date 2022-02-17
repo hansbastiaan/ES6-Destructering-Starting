@@ -1,7 +1,7 @@
 {
-  "name": "es6-destructering",
+  "name": "es6-desructering-start",
   "version": "1.0.0",
-  "description": "",
+  "description": "ES6 Desructering Start",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

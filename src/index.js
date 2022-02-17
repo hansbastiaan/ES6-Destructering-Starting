@@ -23,6 +23,7 @@ ReactDOM.render(
     <tr>
       <th>Brand</th>
       <th>Top Speed</th>
+      <th>Top Colour</th>
     </tr>
     <tr>
       <td>{tesla.model}</td>
